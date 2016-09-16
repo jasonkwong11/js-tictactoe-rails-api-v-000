@@ -1,7 +1,7 @@
 class HomeController < ApplicationController
 
   def index
-    @state = ["J", "", "", "", "", "", "", "", "K"]
+    @state = ["", "", "", "", "", "", "", "", ""]
   end
 
  
